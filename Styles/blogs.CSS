@@ -90,3 +90,37 @@
     height: 396px;
     flex-shrink: 0;
 }
+
+.inputFiled {
+    width: 1210px;
+    height: 449px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: url('/image/Rectangle\ 9.png');
+}
+
+.InputInfo {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.input {
+    padding: 15px;
+    border-radius: 20px;
+    width: 250px;
+}
+
+footer {
+    background: #000;
+    width: 1210px;
+    height: 449px;
+    flex-shrink: 0;
+    color: white;
+    text-align: center;
+    font-size: medium;
+    padding-top: 50px;
+}
+.footerTitle{
+    color: #E55473;
+    
+}
